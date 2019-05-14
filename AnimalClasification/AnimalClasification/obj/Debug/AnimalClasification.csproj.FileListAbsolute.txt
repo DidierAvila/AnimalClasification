@@ -1,0 +1,6 @@
+C:\Users\Alejo-Pc\source\repos\AnimalClasification\AnimalClasification\bin\Debug\AnimalClasification.exe.config
+C:\Users\Alejo-Pc\source\repos\AnimalClasification\AnimalClasification\bin\Debug\AnimalClasification.exe
+C:\Users\Alejo-Pc\source\repos\AnimalClasification\AnimalClasification\bin\Debug\AnimalClasification.pdb
+C:\Users\Alejo-Pc\source\repos\AnimalClasification\AnimalClasification\obj\Debug\AnimalClasification.csproj.CoreCompileInputs.cache
+C:\Users\Alejo-Pc\source\repos\AnimalClasification\AnimalClasification\obj\Debug\AnimalClasification.exe
+C:\Users\Alejo-Pc\source\repos\AnimalClasification\AnimalClasification\obj\Debug\AnimalClasification.pdb
